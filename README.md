@@ -24,4 +24,5 @@ Result
 ------
 
 ### Interoperabilitas View di Compose
-![Tahap1](https://github.com/user-attachments/assets/8b0f20cb-f2ad-4932-8c08-cdc0534de1a0)
+![Tahap1](https://github.com/user-attachments/assets/0fdfe70d-de65-4409-8080-55bdf6acf07f)
+
