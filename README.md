@@ -19,3 +19,9 @@ Getting Started
 2. Download the app.
 3. Import the app into Android Studio.
 4. Build and run the app.
+
+Result
+------
+
+### Interoperabilitas View di Compose
+![Tahap1](https://github.com/user-attachments/assets/8b0f20cb-f2ad-4932-8c08-cdc0534de1a0)
