@@ -79,3 +79,4 @@ val md_theme_dark_outlineVariant = Color(0xFF49454F)
 val md_theme_dark_scrim = Color(0xFF000000)
 
 val Orange = Color(0xFFFF8A00)
+val PinkColor = Color(0xFFFF4E88)
